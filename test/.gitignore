@@ -1,0 +1,3 @@
+selenium-server-standalone-*.jar
+coverage
+coverage*.json
